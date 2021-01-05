@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@vue/devtools": "^5.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "nativescript-fonticon": "^2.0.0",
     "nativescript-local-notifications": "^3.2.1",
     "nativescript-socketio": "^3.2.1",
